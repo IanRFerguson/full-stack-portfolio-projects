@@ -1,0 +1,28 @@
+body {
+  background-color: grey;
+  font-family:  monospace;
+}
+
+.slammer {
+  font-size: 20px;
+}
+
+.slammer:hover {
+  background-color: black;
+  color: white;
+}
+
+.button-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  min-height: 100vh;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  padding-top: 50px;
+}
